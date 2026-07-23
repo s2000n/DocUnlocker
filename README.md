@@ -40,12 +40,10 @@ Handles presentation file formats:
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="./img/1.png" width="45%" alt="Screenshot 1" />
-  <img src="./img/2.png" width="45%" alt="Screenshot 2" />
-</p>
+![Main Dashboard](./img/1.png)
 
-<p align="center">
-  <img src="./img/3.png" width="45%" alt="Screenshot 3" />
-  <img src="./img/4.png" width="45%" alt="Screenshot 4" />
-</p>
+![Feature Selection](./img/2.png)
+
+![Processing Document](./img/3.png)
+
+![Success View](./img/4.png)
