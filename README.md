@@ -3,9 +3,6 @@
 > **Microsoft Office Document Protection Removal Tool**
 
 DocUnlocker is a smart, lightweight tool designed to remove restrictions and protections from files created using the Microsoft Office suite (Excel, Word, PowerPoint) with a single click—without the need for password guessing or consuming system resources.
-
-Buy a license: https://salla.sa/abdulsalam-alnuwaysir-dev/docunlocker/p2030773483
-
 ---
 
 ## 🌟 Key Features
